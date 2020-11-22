@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MAD2019PastPaperB</string>
+    <string name="adminPanel">Admin Panel</string>
+    <string name="btnAdd">Add</string>
+    <string name="gameListHeader">Games</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="rateLabel">Rate</string>
+    <string name="commentLabel">Comment</string>
+    <string name="currentRateLabel">Current Rating</string>
+    <string name="CommentsList">Comments</string>
+</resources>
